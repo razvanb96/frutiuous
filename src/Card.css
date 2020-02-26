@@ -1,0 +1,12 @@
+.progress{
+    max-width: 100%;
+    background-color: rgba(51, 75, 51, 0.89) !important;
+    max-height: 5px;
+}
+
+.macro-nutrition-bar{
+    background-color: #28a745 !important;
+}
+
+.macro-details{
+}
