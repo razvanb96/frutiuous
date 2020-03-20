@@ -1,4 +1,4 @@
-##Frutious
+## Frutious
 
 Frutious aims to offer a solution for retrieving the macronutrient details of the food you eat in order to help you in your diet.
 
