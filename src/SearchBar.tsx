@@ -18,9 +18,10 @@ class SearchBar extends React.Component<any, { searchString: string }> {
                 app_id: parser_app_id,
                 app_key: parser_app_key,
                 ingr: searchStringVar
-            }
+            },
         });
-        if(await response.status === 200) {
+
+        if(response.status === 200) {
             this.props.onSubmit(new Nutrients(await JSON.stringify(response.data.parsed), searchStringVar));
         }
 

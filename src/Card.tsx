@@ -108,7 +108,6 @@ class Card extends React.Component<any, {}> {
                 </div>
                 <button onClick={this.removeCard}>remove</button>
             </div>
-
         );
     }
 }

@@ -1,3 +1,9 @@
+##Frutious
+
+Frutious aims to offer a solution for retrieving the macronutrient details of the food you eat in order to help you in your diet.
+
+The project uses the edamam API for the food details. The application is implemented using React JS with TypeScript. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
